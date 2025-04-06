@@ -1,8 +1,8 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Development Help
     about: Help on the Development
-    url: https://github.com/USERNAME/REPOSITORY/discussions
+    url: https://github.com/EFREI-2026-MasterProject-1/Main/discussions
   - name: Usage Help
     about: Help on the Usage
-    url: https://github.com/USERNAME/REPOSITORY/discussions
+    url: https://github.com/orgs/EFREI-2026-MasterProject-1/discussions
