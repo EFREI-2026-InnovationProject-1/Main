@@ -1,5 +1,7 @@
 {
+	// Autofetching enabled to be notified as early as possible about new changes and to avoid big conflicts
 	"git.autofetch": true,
+	// Autofetching enabled to be notified as early as possible about new changes and to avoid big conflicts
 	"git.autofetchPeriod": 60,
 	"git.postCommitCommand": "sync",
 	"git.pruneOnFetch": true,
