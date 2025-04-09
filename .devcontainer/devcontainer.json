@@ -21,7 +21,8 @@
 				"bierner.github-markdown-preview",
 				"GitHub.copilot",
 				"GitHub.copilot-chat",
-				"ms-vscode.vscode-websearchforcopilot"
+				"ms-vscode.vscode-websearchforcopilot",
+				"rphlmr.vscode-drizzle-orm"
 			]
 		}
 	}
