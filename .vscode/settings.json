@@ -26,5 +26,7 @@
 	"github.copilot.chat.languageContext.typescript.enabled": true,
 	"githubPullRequests.experimental.chat": true,
 	"githubPullRequests.experimental.notificationsView": true,
-	"githubPullRequests.experimental.useQuickChat": true
+	"githubPullRequests.experimental.useQuickChat": true,
+	"nuxtr.defaultPackageManager": "pnpm",
+	"npm.packageManager": "pnpm"
 }
