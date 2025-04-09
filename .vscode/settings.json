@@ -3,6 +3,4 @@
 	"githubIssues.issueBranchTitle": "issue/${issueNumber}",
 	"githubIssues.issueCompletionFormatScm": "Closes ${issueNumberLabel}",
 	"githubIssues.workingIssueFormatScm": "Contributes ${issueNumberLabel}",
-	"nuxtr.defaultPackageManager": "pnpm",
-	"npm.packageManager": "pnpm"
 }
