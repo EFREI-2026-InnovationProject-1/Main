@@ -9,9 +9,21 @@
 	// "features": {},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
-	"postCreateCommand": "pnpm install"
-	// Configure tool-specific properties.
-	// "customizations": {},
+	"postCreateCommand": "pnpm install",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"Vue.volar",
+				"Nuxtr.nuxtr-vscode",
+				"Nuxt.mdc",
+				"piotrpalarz.vscode-gitignore-generator",
+				"eamodio.gitlens",
+				"yoavbls.pretty-ts-errors",
+				"usernamehw.errorlens",
+				"bierner.github-markdown-preview"
+			]
+		}
+	}
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
 }

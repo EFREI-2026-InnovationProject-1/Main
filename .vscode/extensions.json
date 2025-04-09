@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"nuxtr.nuxtr-vscode",
+		"nuxt.mdc",
+		"vue.volar",
+		"piotrpalarz.vscode-gitignore-generator",
+		"eamodio.gitlens",
+		"yoavbls.pretty-ts-errors",
+		"usernamehw.errorlens",
+		"bierner.github-markdown-preview"
+	]
+}
