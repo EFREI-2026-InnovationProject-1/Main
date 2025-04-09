@@ -20,7 +20,10 @@
 				"eamodio.gitlens",
 				"yoavbls.pretty-ts-errors",
 				"usernamehw.errorlens",
-				"bierner.github-markdown-preview"
+				"bierner.github-markdown-preview",
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"ms-vscode.vscode-websearchforcopilot"
 			]
 		}
 	}
