@@ -1,16 +1,8 @@
 {
-	// Autofetching enabled to be notified as early as possible about new changes and to avoid big conflicts
-	"git.autofetch": true,
-	// Autofetching enabled to be notified as early as possible about new changes and to avoid big conflicts
-	"git.autofetchPeriod": 60,
-	"git.postCommitCommand": "sync",
-	"git.pruneOnFetch": true,
-	"githubPullRequests.notifications": "pullRequests",
 	"githubPullRequests.defaultCreateOption": "createDraft",
 	"githubIssues.issueBranchTitle": "issue/${issueNumber}",
 	"githubIssues.issueCompletionFormatScm": "Closes ${issueNumberLabel}",
 	"githubIssues.workingIssueFormatScm": "Contributes ${issueNumberLabel}",
-	"githubPullRequests.experimental.notificationsView": true,
 	"nuxtr.defaultPackageManager": "pnpm",
 	"npm.packageManager": "pnpm"
 }
