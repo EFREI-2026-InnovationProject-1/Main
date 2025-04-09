@@ -1,0 +1,16 @@
+{
+	"git.autofetch": true,
+	"git.autofetchPeriod": 60,
+	"git.enableSmartCommit": true,
+	"git.postCommitCommand": "sync",
+	"git.pruneOnFetch": true,
+	"git.terminalGitEditor": true,
+	"git.useCommitInputAsStashMessage": true,
+	"git.useEditorAsCommitInput": false,
+	"githubPullRequests.notifications": "pullRequests",
+	"githubPullRequests.quickDiff": true,
+	"githubPullRequests.defaultCreateOption": "createDraft",
+	"githubIssues.issueBranchTitle": "issue/${issueNumber}",
+	"githubIssues.issueCompletionFormatScm": "Closes ${issueNumberLabel}",
+	"githubIssues.workingIssueFormatScm": "Contributes ${issueNumberLabel}"
+}
