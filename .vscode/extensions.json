@@ -11,6 +11,7 @@
 		"github.copilot",
 		"github.copilot-chat",
 		"ms-vscode.vscode-websearchforcopilot",
-		"rphlmr.vscode-drizzle-orm"
+		"rphlmr.vscode-drizzle-orm",
+		"dbaeumer.vscode-eslint"
 	]
 }
