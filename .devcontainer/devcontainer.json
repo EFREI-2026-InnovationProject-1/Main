@@ -23,7 +23,8 @@
 				"GitHub.copilot-chat",
 				"ms-vscode.vscode-websearchforcopilot",
 				"rphlmr.vscode-drizzle-orm",
-				"dbaeumer.vscode-eslint"
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
